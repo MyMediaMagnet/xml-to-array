@@ -1,5 +1,5 @@
 {
-    "name": "mtownsend/xml-to-array",
+    "name": "mymediamagnet/xml-to-array",
     "description": "Easily convert valid xml to a php array.",
     "keywords": [
         "laravel",
